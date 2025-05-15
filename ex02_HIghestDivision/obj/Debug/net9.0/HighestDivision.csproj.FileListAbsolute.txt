@@ -1,0 +1,14 @@
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\bin\Debug\net9.0\HighestDivision.exe
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\bin\Debug\net9.0\HighestDivision.deps.json
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\bin\Debug\net9.0\HighestDivision.runtimeconfig.json
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\bin\Debug\net9.0\HighestDivision.dll
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\bin\Debug\net9.0\HighestDivision.pdb
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.dll
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\refint\HighestDivision.dll
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.pdb
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\HighestDivision.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\ex02_HIghestDivision\obj\Debug\net9.0\ref\HighestDivision.dll

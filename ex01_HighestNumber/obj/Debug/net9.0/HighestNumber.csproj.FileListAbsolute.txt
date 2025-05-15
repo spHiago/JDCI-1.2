@@ -1,0 +1,14 @@
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net9.0\HighestNumber.exe
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net9.0\HighestNumber.deps.json
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net9.0\HighestNumber.runtimeconfig.json
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net9.0\HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net9.0\HighestNumber.pdb
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\refint\HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.pdb
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\HighestNumber.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net9.0\ref\HighestNumber.dll
