@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\HighestDivision.csproj",
-      "projectName": "HighestDivision",
-      "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\HighestDivision.csproj",
+      "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\ex02_HighestDivision.csproj",
+      "projectName": "ex02_HighestDivision",
+      "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\ex02_HighestDivision.csproj",
       "packagesPath": "C:\\Users\\HiagoFranco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\obj\\",
       "projectStyle": "PackageReference",

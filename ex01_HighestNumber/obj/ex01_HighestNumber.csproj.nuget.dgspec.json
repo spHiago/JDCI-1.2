@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\HighestNumber.csproj": {}
+    "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\ex01_HighestNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\HighestNumber.csproj": {
+    "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\ex01_HighestNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\HighestNumber.csproj",
-        "projectName": "HighestNumber",
-        "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\HighestNumber.csproj",
+        "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\ex01_HighestNumber.csproj",
+        "projectName": "ex01_HighestNumber",
+        "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\ex01_HighestNumber.csproj",
         "packagesPath": "C:\\Users\\HiagoFranco\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex01_HighestNumber\\obj\\",
         "projectStyle": "PackageReference",
