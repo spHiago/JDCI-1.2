@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\bin\Debug\net8.0\ex04_BizzBuzz.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\bin\Debug\net8.0\ex04_BizzBuzz.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\bin\Debug\net8.0\ex04_BizzBuzz.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\bin\Debug\net8.0\ex04_BizzBuzz.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\bin\Debug\net8.0\ex04_BizzBuzz.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\refint\ex04_BizzBuzz.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ex04_BizzBuzz.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex04_BizzBuzz\obj\Debug\net8.0\ref\ex04_BizzBuzz.dll
