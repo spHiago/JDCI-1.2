@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\bin\Debug\net8.0\ex03_LowestDivision.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\bin\Debug\net8.0\ex03_LowestDivision.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\bin\Debug\net8.0\ex03_LowestDivision.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\bin\Debug\net8.0\ex03_LowestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\bin\Debug\net8.0\ex03_LowestDivision.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\refint\ex03_LowestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ex03_LowestDivision.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex03_LowestDivision\obj\Debug\net8.0\ref\ex03_LowestDivision.dll

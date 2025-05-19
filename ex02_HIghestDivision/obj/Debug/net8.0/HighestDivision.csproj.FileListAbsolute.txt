@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\bin\Debug\net8.0\HighestDivision.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\bin\Debug\net8.0\HighestDivision.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\bin\Debug\net8.0\HighestDivision.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\bin\Debug\net8.0\HighestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\bin\Debug\net8.0\HighestDivision.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\refint\HighestDivision.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\HighestDivision.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex02_HIghestDivision\obj\Debug\net8.0\ref\HighestDivision.dll

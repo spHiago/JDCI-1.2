@@ -99,3 +99,5 @@ else if (media03 == media04 && media03 < media01 && media03 < media02)
     lowest = media03;
 
 Console.WriteLine($"The lowest result of the division is: {lowest}");
+
+return (0);
