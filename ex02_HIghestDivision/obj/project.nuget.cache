@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NJfMMMmyB9/m0Ujn9Q5QED/bcCvMEpc1RotX/6Zu/s9hRA4DmyoC5C1o8USzs13xKRzTuskncNsNk/ayeBFtnA==",
+=======
+  "dgSpecHash": "/eiXbX/bZJc=",
+>>>>>>> b7cb89e (ex05 em progresso)
   "success": true,
   "projectFilePath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex02_HIghestDivision\\ex02_HighestDivision.csproj",
   "expectedPackageFiles": [],

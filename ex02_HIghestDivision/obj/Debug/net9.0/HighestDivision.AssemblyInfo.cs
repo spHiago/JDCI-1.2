@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighestDivision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37be8460d49c5c887390414fb2d9adb3b8a8eac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighestDivision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighestDivision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

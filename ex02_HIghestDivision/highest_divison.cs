@@ -15,11 +15,11 @@ the division of one from the other. The result must be returned;*/
         string input2 = Console.ReadLine();
         int number2 = int.Parse(input2);
         Console.WriteLine($"Your second number is {number2}.");
-        int result1 = number1 / number2;
-        int result2 = number2 / number1;
+        float result1 = number1 / number2;
+        float result2 = number2 / number1;
         Console.WriteLine($"The result of the division of the {number1} and the {number2} is {result1}.");
         Console.WriteLine($"And the result of the division of the {number2} and the {number1} is {result2}.");
-        int maior = 0;
+        float maior = 0;
         if (result1 > result2) maior = result1;
         if (result1 < result2) maior = result2;
         if (result1 == result2) 

@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net8.0\ex01_HighestNumber.exe
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net8.0\ex01_HighestNumber.deps.json
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net8.0\ex01_HighestNumber.runtimeconfig.json
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net8.0\ex01_HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\bin\Debug\net8.0\ex01_HighestNumber.pdb
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.sourcelink.json
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\refint\ex01_HighestNumber.dll
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.pdb
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ex01_HighestNumber.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\ex01_HighestNumber\obj\Debug\net8.0\ref\ex01_HighestNumber.dll

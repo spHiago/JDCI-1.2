@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighestNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37be8460d49c5c887390414fb2d9adb3b8a8eac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighestNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighestNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

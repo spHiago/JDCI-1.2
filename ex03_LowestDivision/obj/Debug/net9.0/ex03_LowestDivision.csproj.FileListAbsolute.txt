@@ -12,3 +12,4 @@ C:\Users\suele\Desktop\C#\ex03_LowestDivision\obj\Debug\net9.0\refint\ex03_Lowes
 C:\Users\suele\Desktop\C#\ex03_LowestDivision\obj\Debug\net9.0\ex03_LowestDivision.pdb
 C:\Users\suele\Desktop\C#\ex03_LowestDivision\obj\Debug\net9.0\ex03_LowestDivision.genruntimeconfig.cache
 C:\Users\suele\Desktop\C#\ex03_LowestDivision\obj\Debug\net9.0\ref\ex03_LowestDivision.dll
+C:\Users\suele\Desktop\C#\ex03_LowestDivision\obj\Debug\net9.0\ex03_LowestDivision.sourcelink.json

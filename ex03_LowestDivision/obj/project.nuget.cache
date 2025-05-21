@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "zWmSVghw5KTUEo/+NUXkdRHvLTf9TphiegHRbJj2oDTy4rueoYNKkVBrySKJkqEA286AVWsNBbON/iWSuH17IQ==",
+=======
+  "dgSpecHash": "ZZUmMhMGhgQ=",
+>>>>>>> b7cb89e (ex05 em progresso)
   "success": true,
   "projectFilePath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex03_LowestDivision\\ex03_LowestDivision.csproj",
   "expectedPackageFiles": [],
