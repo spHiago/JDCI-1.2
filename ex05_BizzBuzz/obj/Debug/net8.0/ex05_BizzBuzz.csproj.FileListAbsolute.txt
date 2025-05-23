@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\bin\Debug\net8.0\ex05_BizzBuzz.exe
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\bin\Debug\net8.0\ex05_BizzBuzz.deps.json
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\bin\Debug\net8.0\ex05_BizzBuzz.runtimeconfig.json
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\bin\Debug\net8.0\ex05_BizzBuzz.dll
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\bin\Debug\net8.0\ex05_BizzBuzz.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.dll
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\refint\ex05_BizzBuzz.dll
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ex05_BizzBuzz.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\JDCI-1.2\ex05_BizzBuzz\obj\Debug\net8.0\ref\ex05_BizzBuzz.dll
