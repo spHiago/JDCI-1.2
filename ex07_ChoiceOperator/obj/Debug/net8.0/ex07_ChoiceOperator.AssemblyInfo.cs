@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex07_ChoiceOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f648c3a0438cd9be2de602625993187955b4b141")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced480a75a0f5924e919a457d2c98a88d5ca0705")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex07_ChoiceOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex07_ChoiceOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
