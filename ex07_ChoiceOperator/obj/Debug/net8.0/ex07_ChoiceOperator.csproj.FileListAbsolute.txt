@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\bin\Debug\net8.0\ex07_ChoiceOperator.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\bin\Debug\net8.0\ex07_ChoiceOperator.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\bin\Debug\net8.0\ex07_ChoiceOperator.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\bin\Debug\net8.0\ex07_ChoiceOperator.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\bin\Debug\net8.0\ex07_ChoiceOperator.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\refint\ex07_ChoiceOperator.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ex07_ChoiceOperator.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.2\ex07_ChoiceOperator\obj\Debug\net8.0\ref\ex07_ChoiceOperator.dll
