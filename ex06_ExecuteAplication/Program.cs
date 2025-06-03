@@ -10,6 +10,7 @@
             Console.WriteLine("3. ex03_LowestDivision");
             Console.WriteLine("4. ex04_DecimalDivision");
             Console.WriteLine("5. ex05_BizzBuzz");
+            Console.WriteLine("7. ex07_OperatorChoice");
 
             string input = Console.ReadLine();
             int exerciseNumber = int.Parse(input);
@@ -232,6 +233,70 @@
                         #endregion
                     }
                     break;
+                case 7:
+                    #region ex07_OperatorChoice
+                    /*The application that receives two number and one operator option and executes the
+                      calculation. The result must be returned.
+                      The operation codes are:
+                        • SUM;
+                        • SUB;
+                        • MLT;
+                        • DIV;
+                        A Switch must be used;*/
+
+                    Console.WriteLine("For start, give me your first number:");
+                    string input01 = Console.ReadLine();
+                    float number01 = float.Parse(input01);
+                    Console.WriteLine($"Your first number is {number01}.");
+
+                    Console.WriteLine("Now your second number, please:");
+                    string input02 = Console.ReadLine();
+                    float number02 = float.Parse(input02);
+                    Console.WriteLine($"And your second number is the number {number02}.");
+
+                    Console.WriteLine("Now choice your operator:");
+                    Console.WriteLine("1. SUM");
+                    Console.WriteLine("2. SUB");
+                    Console.WriteLine("3. MLT");
+                    Console.WriteLine("4. DIV");
+
+                    string input5 = Console.ReadLine();
+                    int operatorChoice = int.Parse(input5);
+
+                    switch (operatorChoice)
+                    {
+                        case 1:
+                            #region Summation
+                            float resultSum = number01 + number02;
+                            Console.WriteLine("You choice the SUMMARY operator.");
+                            Console.WriteLine($"{number01} + {number02} = {resultSum}");
+                            #endregion
+                            break;
+                        case 2:
+                            #region Subtraction
+                            float resultSub = number01 - number02;
+                            Console.WriteLine("You choice the SUBTRACTION operator.");
+                            Console.WriteLine($"{number01} - {number02} = {resultSub}");
+                            #endregion
+                            break;
+                        case 3:
+                            #region Multiplication
+                            float resultMlt = number01 * number02;
+                            Console.WriteLine("You choice the MULTIPLICATION operator.");
+                            Console.WriteLine($"{number01} * {number02} = {resultMlt}");
+                            #endregion
+                            break;
+                        case 4:
+                            #region Division
+                            float resultDiv = number01 / number02;
+                            Console.WriteLine("You choice the DIVISION operator.");
+                            Console.WriteLine($"{number01} / {number02} = {resultDiv}");
+                            #endregion
+                            break;
+                            #endregion
+                    }
+                     break;
+
             }
         }
     }

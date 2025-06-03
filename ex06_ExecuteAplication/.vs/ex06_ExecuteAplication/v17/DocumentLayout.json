@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex06_ExecuteAplication\\",
+  "WorkspaceRootPath": "C:\\Users\\suele\\Desktop\\C#\\JDCI-1.2\\ex06_ExecuteAplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9688C01-6A2B-26A3-EF51-6C70D140D503}|ex06_ExecuteAplication.csproj|c:\\users\\hiagofranco\\desktop\\assembly\\jdci-1.2\\ex06_executeaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9688C01-6A2B-26A3-EF51-6C70D140D503}|ex06_ExecuteAplication.csproj|c:\\users\\suele\\desktop\\c#\\jdci-1.2\\ex06_executeaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9688C01-6A2B-26A3-EF51-6C70D140D503}|ex06_ExecuteAplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex06_ExecuteAplication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\suele\\Desktop\\C#\\JDCI-1.2\\ex06_ExecuteAplication\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.2\\ex06_ExecuteAplication\\Program.cs",
+              "ToolTip": "C:\\Users\\suele\\Desktop\\C#\\JDCI-1.2\\ex06_ExecuteAplication\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "ViewState": "AgIAACcBAAAAAAAAAAAAACsBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T19:48:09.408Z",
               "EditorCaption": ""
